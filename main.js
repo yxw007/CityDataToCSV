@@ -3,7 +3,7 @@
  * 文件名称：main.js
  * 创建作者：Potter
  * 开发版本：1.0.0
- * 相关说明：功能说明：地址树形结构转平级结构至CSV表格中
+ * 相关说明：地址树形结构转平级结构至CSV表格中
  */
 const fs = require('fs')
 const path = require('path')
